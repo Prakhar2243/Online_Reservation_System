@@ -1,4 +1,4 @@
-# automatic-winner
+# Online Reservation System using Python
 Reservation System using Python
 TOOLS AND METHODOLOGY
 Tools:
